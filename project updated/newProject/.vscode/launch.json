@@ -1,0 +1,67 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UserManagement",
+            "request": "launch",
+            "mainClass": "UserManagement",
+            "projectName": "newProject_92ab90f4",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "newProject_92ab90f4",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "LoginScreen",
+            "request": "launch",
+            "mainClass": "LoginScreen",
+            "projectName": "newProject_92ab90f4",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "logInMenu",
+            "request": "launch",
+            "mainClass": "logInMenu",
+            "projectName": "Myjavafx_a7f6d872",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RecipeManagementView",
+            "request": "launch",
+            "mainClass": "RecipeManagementView",
+            "projectName": "newProject_92ab90f4",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RecipeManagementView",
+            "request": "launch",
+            "mainClass": "RecipeManagementView",
+            "projectName": "Myjavafx_a7f6d872",
+            "vmArgs": "--module-path \"C:/path/to/javafx-sdk/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Animationlogo",
+            "request": "launch",
+            "mainClass": "Animationlogo",
+            "projectName": "Myjavafx_a7f6d872",
+            "vmArgs": "--module-path \"C:/Users/earm/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
